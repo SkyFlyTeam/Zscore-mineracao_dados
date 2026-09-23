@@ -15,7 +15,7 @@
 |---|---|
 | Andre Salerno | Guilherme Benedito |
 | Eric Lourenço | Brenno Rosa |
-| Karen Gonçalves | Ivan Surita |
+| Karen Gonçalves | Ivan Suiyama |
 
 ---
 
