@@ -1,0 +1,61 @@
+ID_Pedido,Data_Pedido,Categoria,Região,Forma_Pagamento,Quantidade,Preço_Unitário,Desconto_Pct,Frete,Prazo_Entrega_Dias,Valor_Total,Situação_Anormal
+1001,2026-01-03,Eletrônicos,Sudeste,Cartão de crédito,1,79.9,0.0,0.0,2.0,79.9,Normal
+1002,2026-01-05,Casa,Nordeste,PIX,2,139.9,0.05,12.9,5.0,278.71,Normal
+1003,2026-01-07,Moda,Norte,Boleto,3,269.9,0.1,18.5,8.0,747.2299999999999,Normal
+1004,2026-01-09,Beleza,Sul,Carteira digital,4,89.9,0.15,24.9,11.0,330.56,Normal
+1005,2026-01-11,Esportes,Centro-Oeste,Cartão de crédito,5,189.9,0.0,0.0,4.0,949.5,Normal
+1006,2026-01-13,Livros,Sudeste,PIX,6,49.9,0.05,12.9,7.0,297.3299999999999,Normal
+1007,2026-01-15,Eletrônicos,Nordeste,Boleto,1,99.9,0.1,18.5,10.0,108.41000000000001,Normal
+1008,2026-01-17,Casa,Norte,Carteira digital,2,159.9,0.15,24.9,3.0,296.72999999999996,Normal
+1009,2026-01-19,Moda,Sul,Cartão de crédito,3,249.9,0.0,0.0,6.0,749.7,Normal
+1010,2026-01-21,Beleza,Centro-Oeste,PIX,4,69.9,0.05,12.9,9.0,278.52,Normal
+1011,2026-01-23,Esportes,Sudeste,Boleto,5,209.9,0.1,18.5,2.0,963.0500000000001,Normal
+1012,2026-01-25,Livros,Nordeste,Carteira digital,40,69.9,0.15,24.9,5.0,2401.5,Anomalia: quantidade extrema
+1013,2026-01-27,Eletrônicos,Norte,Cartão de crédito,1,79.9,0.0,0.0,8.0,79.9,Normal
+1014,2026-01-29,Casa,Sul,PIX,2,139.9,0.05,12.9,11.0,278.71,Normal
+1015,2026-01-31,Moda,Centro-Oeste,Boleto,3,269.9,0.1,18.5,4.0,747.2299999999999,Normal
+1016,2026-02-02,Beleza,Sudeste,Carteira digital,4,89.9,0.15,24.9,7.0,330.56,Normal
+1017,2026-02-04,Esportes,Nordeste,Cartão de crédito,5,189.9,0.0,0.0,10.0,949.5,Normal
+1018,2026-02-06,Livros,Norte,PIX,6,49.9,0.05,12.9,3.0,297.3299999999999,Normal
+1019,2026-02-08,Eletrônicos,Sul,Boleto,1,99.9,0.1,18.5,6.0,108.41000000000001,Normal
+1020,2026-02-10,Casa,Centro-Oeste,Carteira digital,2,,0.15,24.9,9.0,,Normal
+1021,2026-02-12,Moda,Sudeste,Cartão de crédito,3,249.9,0.0,0.0,2.0,749.7,Normal
+1022,2026-02-14,Beleza,Nordeste,PIX,4,69.9,0.05,12.9,5.0,278.52,Normal
+1023,2026-02-16,Esportes,Norte,Boleto,5,209.9,0.1,18.5,8.0,963.0500000000001,Normal
+1024,2026-02-18,Livros,Sul,Carteira digital,6,69.9,0.15,24.9,11.0,381.39,Normal
+1025,2026-02-20,Eletrônicos,Centro-Oeste,Cartão de crédito,1,79.9,0.0,0.0,4.0,79.9,Normal
+1026,2026-02-22,Casa,Sudeste,PIX,2,139.9,0.05,12.9,7.0,278.71,Normal
+1027,2026-02-24,Moda,Nordeste,Boleto,3,4999.9,0.1,18.5,10.0,13518.23,Anomalia: preço extremo
+1028,2026-02-26,Beleza,Norte,Carteira digital,4,89.9,0.15,24.9,3.0,330.56,Normal
+1029,2026-02-28,Esportes,Sul,Cartão de crédito,5,189.9,0.0,0.0,6.0,949.5,Normal
+1030,2026-03-02,Livros,Centro-Oeste,PIX,6,49.9,0.05,12.9,9.0,297.3299999999999,Normal
+1031,2026-03-04,Eletrônicos,Sudeste,Boleto,1,99.9,0.1,18.5,2.0,108.41000000000001,Normal
+1032,2026-03-06,Casa,Nordeste,Carteira digital,2,159.9,0.15,24.9,5.0,296.72999999999996,Normal
+1033,2026-03-08,Moda,Norte,Cartão de crédito,3,249.9,0.0,0.0,8.0,749.7,Normal
+1034,2026-03-10,Beleza,Sul,PIX,4,69.9,0.05,12.9,11.0,278.52,Normal
+1035,2026-03-12,Esportes,Centro-Oeste,Boleto,5,209.9,0.1,18.5,4.0,963.0500000000001,Normal
+1036,2026-03-14,Livros,Sudeste,,6,69.9,0.15,24.9,7.0,381.39,Normal
+1037,2026-03-16,Eletrônicos,Nordeste,Cartão de crédito,1,79.9,0.0,0.0,10.0,79.9,Normal
+1038,2026-03-18,Casa,Norte,PIX,2,139.9,0.05,12.9,3.0,278.71,Normal
+1039,2026-03-20,Moda,Sul,Boleto,3,269.9,0.1,18.5,6.0,747.2299999999999,Normal
+1040,2026-03-22,Beleza,Centro-Oeste,Carteira digital,4,89.9,0.15,24.9,9.0,330.56,Normal
+1041,2026-03-24,Esportes,Sudeste,Cartão de crédito,5,189.9,0.0,0.0,2.0,949.5,Normal
+1042,2026-03-26,Livros,Nordeste,PIX,6,49.9,0.05,12.9,5.0,297.3299999999999,Normal
+1043,2026-03-28,Eletrônicos,Norte,Boleto,1,99.9,0.1,18.5,40.0,108.41000000000001,Anomalia: atraso extremo
+1044,2026-03-30,Casa,Sul,Carteira digital,2,159.9,0.15,24.9,11.0,296.72999999999996,Normal
+1045,2026-04-01,Moda,Centro-Oeste,Cartão de crédito,3,249.9,0.0,0.0,4.0,749.7,Normal
+1046,2026-04-03,Beleza,Sudeste,PIX,4,69.9,0.05,12.9,7.0,278.52,Normal
+1047,2026-04-05,Esportes,Nordeste,Boleto,5,209.9,0.1,18.5,10.0,963.0500000000001,Normal
+1048,2026-04-07,Livros,Norte,Carteira digital,6,69.9,0.15,24.9,3.0,381.39,Normal
+1049,2026-04-09,Eletrônicos,Sul,Cartão de crédito,1,79.9,0.0,0.0,,79.9,Normal
+1050,2026-04-11,Casa,Centro-Oeste,PIX,2,139.9,0.05,12.9,9.0,278.71,Normal
+1051,2026-04-13,Moda,Sudeste,Boleto,3,269.9,0.1,18.5,2.0,747.2299999999999,Normal
+1052,2026-04-15,Beleza,Nordeste,Carteira digital,4,89.9,0.15,24.9,5.0,330.56,Normal
+1053,2026-04-17,Esportes,Norte,Cartão de crédito,5,189.9,0.0,0.0,8.0,949.5,Normal
+1054,2026-04-19,Livros,Sul,PIX,6,49.9,0.05,12.9,11.0,297.3299999999999,Normal
+1055,2026-04-21,Eletrônicos,Centro-Oeste,Boleto,1,99.9,0.1,18.5,4.0,108.41000000000001,Normal
+1056,2026-04-23,Casa,Sudeste,Carteira digital,18,159.9,0.55,0.0,7.0,1295.19,Anomalia combinada: quantidade alta + desconto alto + frete zero
+1057,2026-04-25,Moda,Nordeste,Cartão de crédito,3,249.9,0.0,0.0,10.0,749.7,Normal
+1058,2026-04-27,Beleza,Norte,PIX,4,69.9,0.05,12.9,3.0,278.52,Normal
+1059,2026-04-29,Esportes,Sul,Boleto,5,209.9,0.1,18.5,6.0,963.0500000000001,Normal
+1060,2026-05-01,Livros,Centro-Oeste,Carteira digital,6,69.9,0.15,24.9,9.0,381.39,Normal
